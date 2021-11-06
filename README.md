@@ -1,4 +1,3 @@
-# dartTPdartContact
 # Gestion de contact 
 1) définir une classe Contact(name,surname,addressLine1,addressLine2,_email,_mobileTel,_homeTel)
 homeTel et addressLine2 peuvent être null (définir un constructeur simple et un constructeur sans addressLine2 et _homeTel)
